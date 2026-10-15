@@ -1,6 +1,6 @@
 # NA-QSP_sims
 
-Simulations and figure-generation code for **"Non-Abelian Quantum Signal Processing"** ([Phys. Rev. X 16, 041018](https://journals.aps.org/prx/abstract/10.1103/7jwl-k8xg))).
+Simulations and figure-generation code for **"Non-Abelian Quantum Signal Processing"** ([Phys. Rev. X 16, 041018](https://journals.aps.org/prx/abstract/10.1103/7jwl-k8xg)).
 
 This repo produces the qubit-oscillator (GKP bosonic code) simulation results and all main-text and supplementary figures in the paper, including the performance of the **GCR (Generalized Composite Rotation)** and **BB1(GCR)** pulse sequences used for robust, non-Abelian quantum signal processing and modular readout of GKP qubits.
 
